@@ -1,0 +1,11 @@
+{
+  "name": "https://uibachat.tk/#apps/hello_cozy",
+  "cozy-type": "static",
+  "cozy-displayName": "Hello World",
+  "version": "1.0.0",
+  "description": "Your app's description",
+  "icon-path": "main_icon.png",
+  "cozy-permissions": {
+    "Contacts": "This app manages your contacts"
+  }
+}
